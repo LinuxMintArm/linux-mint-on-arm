@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<openbox_config><theme><font place="ActiveWindow"><name>Quicksand</name><size>13</size><weight>Normal</weight><slant>Normal</slant></font><font place="InactiveWindow"><name>Quicksand</name><size>13</size><weight>Normal</weight><slant>Normal</slant></font><invHandleWidth>10</invHandleWidth><titleColor>#87919b</titleColor><textColor>#f0f0f0</textColor></theme></openbox_config>
