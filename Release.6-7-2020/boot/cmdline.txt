@@ -1,1 +1,1 @@
-console=serial0,115200 console=tty1 root=PARTUUID=92db1022-02 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait quiet splash plymouth.ignore-serial-consoles init=/sbin/init rootmnt=/root
+console=serial0,115200 console=tty1 root=PARTUUID=821a2aab-01 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait quiet splash plymouth.ignore-serial-consoles init=/sbin/init rootmnt=/root
